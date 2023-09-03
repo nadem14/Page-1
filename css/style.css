@@ -1,0 +1,152 @@
+.header{
+    background-color: #87509c;
+}
+.nav-item > .nav-link{
+    color: white;
+}
+.nav-item > .nav-link:hover{
+    color: white;
+    background-color: #643a79;
+    border-radius: 5px;
+}
+.header-text{
+    font-size: 38px;
+    margin-top: 100px;
+    padding: 100px;
+}
+.work_with_us{
+    background: #eb7d4b;
+    height: 60px;
+    width: 300px;
+    font-size: 20px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: none;
+    border-bottom: 4px solid #c86a40;
+}
+.services{
+    background-color: #17c2a4;
+    padding: 100px;
+}
+.dag{
+    border-bottom: 3px solid #14a58c;
+    width: 70px;
+    margin-top: 20px;
+}
+.dag6{
+    border-bottom: 3px solid #dfe8ed;
+    width: 70px;
+    margin-top: 20px;
+}
+.dag2{
+    border-bottom: 3px solid #c8d9e5;
+    width: 70px;
+    margin-top: 20px;
+}
+.dag3{
+    border-bottom: 3px solid #e5c37f;
+    width: 70px;
+    margin-top: 20px;}
+.dag4{
+    border-bottom: 3px solid #b73c6d;
+    width: 70px;
+    margin-top: 20px;
+}
+.dag5{
+    border-bottom: 3px solid #273a71;
+    width: 70px;
+    margin-top: 20px;
+}
+.services-we-provide{
+    margin-top: 20px;
+}
+.Flag{
+    margin-top: 60px ;
+    text-align: center;
+}
+.md{
+    margin-top: 50px;
+}
+.mn{
+    margin-top: 20px;
+}
+.post-1{
+    color: #efa18f ;
+}
+.name{
+    color: white;
+    margin-top: 5px;
+}
+.post{
+    color: mediumslateblue;
+}
+.team{
+    background-color: #e7f1f8;
+    padding: 100px;
+}
+.skills{
+   
+    padding: 100px;
+}
+.portfold{
+     background-color: #ffdd99;
+     margin-top: 100px;
+     padding: 100px;
+}
+.btn-grp{
+    background: #ebc985;
+    padding: 5px 20px;
+    font-size: .8em ;
+    border: none;
+    border-radius: 4px;
+}
+.btn-grp:hover{
+    color: black;
+    background: white;
+}
+.learn{
+    background: #17c2a4;
+    height: 60px;
+    width: 300px;
+    font-size: 20px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: none;
+    border-bottom: 4px solid #14a58c;   
+}
+.what{
+    background-color: #d74680;
+    padding: 100px;
+}
+
+.form{
+    padding: 100px;
+    background-color: #3c5499;
+}
+input{
+    background: #87509c;
+    margin-top: 20px;
+}
+
+.send-massage{
+    background: #30bae7;
+    height: 60px;
+    width: 300px;
+    font-size: 20px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: none;
+    border-bottom: 4px solid #299ec5; 
+}
+.footer{
+    background-color: #344b8e;
+    border-top: 1px solid white;
+    padding: 50px;
+}
+.fot{
+    text-decoration: none;
+    color: white;
+}
+.fot:hover{
+    color: #30bae7;
+}
